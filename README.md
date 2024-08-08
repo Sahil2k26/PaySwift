@@ -1,5 +1,5 @@
 ## PaySwift: 
---A secure payments application enabling authenticated money transfers between users, designed for high concurrency and consistent data handling.
+A secure payments application enabling authenticated money transfers between users, designed for high concurrency and consistent data handling.
 
 # Key Features:
 
