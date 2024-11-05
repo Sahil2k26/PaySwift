@@ -2,7 +2,7 @@
 
 const mongoose=require("mongoose");
 
-mongoose.connect("mongodb+srv://sahil:VK8i5cpXcHTCHTls@cluster0.qigbjuo.mongodb.net/PayTM");
+mongoose.connect("");
 
 const userSchema=mongoose.Schema({
     firstName:String,
